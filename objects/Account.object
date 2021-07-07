@@ -229,6 +229,16 @@
     <enableHistory>false</enableHistory>
     <externalSharingModel>Private</externalSharingModel>
     <fields>
+        <fullName>Account_ID__c</fullName>
+        <externalId>false</externalId>
+        <label>Account ID</label>
+        <length>50</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Quarterly_Revenue__c</fullName>
         <externalId>false</externalId>
         <label>Quarterly Revenue</label>
